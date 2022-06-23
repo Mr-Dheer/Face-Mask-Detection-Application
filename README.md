@@ -3,9 +3,9 @@
 ###  Built a face mask classifier that could detect faces and classify whether the detected person is wearing a mask or not. Also, it was implemented on real-time videos and achieved an accuracy of 98%. 
 
 
- https://user-images.githubusercontent.com/97047991/175241748-562d5a6e-4b7b-471f-95e4-ea38a43e5b35.mp4|width="200" height="400"
+<!--  https://user-images.githubusercontent.com/97047991/175241748-562d5a6e-4b7b-471f-95e4-ea38a43e5b35.mp4 -->
  
-<!--  ![](  https://user-images.githubusercontent.com/97047991/175241748-562d5a6e-4b7b-471f-95e4-ea38a43e5b35.mp4| width=100) -->
+<img src=" https://user-images.githubusercontent.com/97047991/175241748-562d5a6e-4b7b-471f-95e4-ea38a43e5b35.mp4" width="48">
 
 
 
