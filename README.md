@@ -1,6 +1,6 @@
 # Face-Mask-Detection-Application
 
-###  Built a face mask classifier that could detect faces and classify whether the detected person is wearing a mask or not. Also, it was implemented on real-time videos and achieved an accuracy of 98%. 
+###  The Face Mask Detector is a machine learning based application that I developed to detect whether a person is wearing a face mask or not. I created a custom dataset of images of my own and trained the model using the RandomForestClassifier algorithm. The application uses the trained model to classify real-time video feed and determine if a person has a mask on or not. The use of a RandomForestClassifier allowed for accurate classification and ensured the model's robustness in a real-world setting. The application serves as an efficient tool to enforce mask-wearing regulations and helps in promoting public health and safety.
 
 
  https://user-images.githubusercontent.com/97047991/175241748-562d5a6e-4b7b-471f-95e4-ea38a43e5b35.mp4
