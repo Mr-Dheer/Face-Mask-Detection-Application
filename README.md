@@ -17,3 +17,6 @@
 - So, to take care of this problem we don’t need any guard or person who keeps a watch on people. We can integrate a camera which continuously clicks pictures of humans and detect from there faces whether they are wearing a face mask or not.
 
 
+**Contributions**
+
+Contributions to this project are welcome. If you want to contribute, please fork the repository and create a pull request with your changes.
