@@ -12,18 +12,20 @@
 
 - Python 3.x
 - OpenCV
-- TensorFlow
-- Keras
 - Numpy
+- Pandas
 - Scikit-learn
 
 
 
 ## **Model**
-The model used in this application was trained by the developer on a custom dataset of images using the RandomForestClassifier algorithm. The algorithm was chosen for its accuracy and robustness in real-world settings.
+The model used in this application was trained  on a custom dataset of images of my own using the RandomForestClassifier algorithm. The algorithm was chosen for its accuracy and robustness in real-world settings.
 
 ## **Purpose**
 The purpose of this application is to serve as an efficient tool to enforce mask-wearing regulations and help promote public health and safety.
+
+## **Limitation**
+The current limitations of this project include its inability to work on images of other individuals other than me. However, the future scope of the project includes expanding its capabilities to work on all  individuals, as well as implementing neural networks to further improve its accuracy and performance.
 
 ## **Contributions**
 Contributions to this project are welcome. If you want to contribute, please fork the repository and create a pull request with your changes.
